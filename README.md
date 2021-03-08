@@ -3,7 +3,7 @@
 
 Код с разбором: [https://github.com/gkurbesov/Homework5Review/blob/master/Homework5Review/Program.cs](https://github.com/gkurbesov/Homework5Review/blob/master/Homework5Review/Program.cs)
 
-Полезные ссылки:
+## Полезные ссылки:
 
 [Запись строк в файл](https://docs.microsoft.com/en-us/dotnet/api/system.io.file.appendalllines?view=net-5.0)
 
